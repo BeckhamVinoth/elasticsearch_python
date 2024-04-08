@@ -1,7 +1,5 @@
-from elasticsearch import Elasticsearch
+# all are individual files, so noting is there in this file
 
-# project reference
-# https://github.com/idanwork22/elasticsearch-with-python-course
 
-# Medium blog be me
+# Medium blog by me
 # https://medium.com/@beckhamvino93/simplifying-data-search-with-python-and-elasticsearch-5c46a06b1b5d
